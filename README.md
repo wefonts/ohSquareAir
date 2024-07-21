@@ -1,5 +1,5 @@
 # ohSquareAir
-카페24 아네모네에어체
+카페24 아네모네 에어체
 
 <pre>
 @font-face {
